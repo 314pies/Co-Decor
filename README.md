@@ -16,7 +16,7 @@ Compared to traditional interfaces (e.g., desktop computer, pure touchscreen, et
 *Built with Unity, ARFoundation, and Mirror Framework.*
 
 ## Demo
-<a href="https://youtu.be/4bN705wYOPs "><img src="http://img.youtube.com/vi/4bN705wYOPs/maxresdefault.jpg" alt="drawing" width="350"/></a>
+<a href="https://youtu.be/4bN705wYOPs " target = "_blank"><img src="http://img.youtube.com/vi/4bN705wYOPs/maxresdefault.jpg" alt="drawing" width="350"/></a>
 
 ## Download
 The android build can be downloaded [here](https://github.com/314pies/Co-Decor_public/releases/)!
